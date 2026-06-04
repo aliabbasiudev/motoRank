@@ -9,36 +9,6 @@
 # motoRank
 
 
----
-
-## 📸 Screenshots
-
-**Hero — Homepage**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/93b31535-4db9-428e-924a-4f44a6aabd41" width="90%" alt="Homepage" />
-</p>
-
-**Bike Rankings**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e3604fc2-c87e-44ad-aab7-d55b7fb49c00" width="90%" alt="Bike Rankings" />
-</p>
-
-**Head-to-Head Comparison**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/12cf4da4-b1fb-4ecb-beed-3f7512c00a6c" width="90%" alt="Bike Compare" />
-</p>
-
-**Rider Reviews**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bed785b1-8305-4dbe-9ac6-f3d70d582f67" width="90%" alt="Rider Reviews" />
-</p>
-
-**Bike Detail — Specs & Performance Radar**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a589650e-9073-441e-8eb1-0bac9e8b8b79" width="45%" alt="Bike Specs Modal" />
-  &nbsp;
-  <img src="https://github.com/user-attachments/assets/93b31535-4db9-428e-924a-4f44a6aabd41" width="45%" alt="Performance Radar" />
-</p>
 
 ---
 
